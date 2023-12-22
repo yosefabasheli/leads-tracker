@@ -3,33 +3,36 @@ body {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
+    background-color: rgb(16, 33, 27);
 }
 
 input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9341;
+    border: 1px solid #6ce7e48e;
     margin-bottom: 4px;
 }
 
 button {
-    background: #5f9341;
-    color: white;
+    background: #2c5514;
+    color: rgb(241, 241, 241);
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid #204b40;
     font-weight: bold;
+    margin: 4px;
 }
 
 #delete-btn {
-    background: white;
-    color: #5f9341;
+    background: rgb(97, 27, 27);
+    color: #94d30c;
 }
 
 ul {
     margin-top: 20px;
     list-style: none;
     padding-left: 0;
+    
 }
 
 li {
@@ -37,7 +40,7 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color: #45702c;
 }
 
 
